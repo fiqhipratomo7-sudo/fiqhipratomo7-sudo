@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fiqhipratomo</h1>
-<h3 align="center">Aspiring Software Engineer from Indonesia 🇮🇩</h3>
+<h3 align="center">Aspiring Student Software Engineer from Indonesia 🇮🇩</h3>
 
 ---
 
