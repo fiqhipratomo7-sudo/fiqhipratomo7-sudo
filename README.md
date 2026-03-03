@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Fiqhipratomo</h1>
+<h3 align="center">Aspiring Software Engineer from Indonesia 🇮🇩</h3>
 
-<!--
-**fiqhipratomo7-sudo/fiqhipratomo7-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 Student passionate about technology
+- 💻 Currently learning: HTML, CSS, JavaScript
+- 📚 Exploring Web Development
+- 🎯 Goal: Becoming a professional Software Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,vscode" />
+</p>
+
+---
+
+## 🏆 GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=fiqhipratomo7-sudo&theme=algolia&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+
+---
+
+## 🌱 Current Focus
+- Strengthening JavaScript fundamentals
+- Building small real-world projects
+- Improving problem solving skills
+
+---
+
+⭐ From [fiqhipratomo7-sudo](https://github.com/fiqhipratomo7-sudo)
